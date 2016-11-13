@@ -3,6 +3,7 @@
 
 # Build output and files
 /build
+!/build/dev-spf-bundle.js
 /build.ninja
 /npm-debug.log
 /web/_site
