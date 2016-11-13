@@ -410,6 +410,10 @@ function targets(ninja) {
       .using('jsdist')
       .from('$builddir/spf.js');
 
+  ninja.edge('$distdir/dev-spf-bundle.js')
+      .using('jsdist')
+      .from('$builddir/dev-spf-bundle.js');
+
   ninja.edge('$distdir/spf-debug.js')
       .using('jsdist')
       .from('$builddir/spf-debug.js');

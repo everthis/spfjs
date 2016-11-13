@@ -2,9 +2,8 @@
 /dist
 
 # Build output and files
-/build/*
+/build
 /build.ninja
-!/build/dev-spf-bundle.js
 /npm-debug.log
 /web/_site
 /web/_source
