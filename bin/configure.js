@@ -555,7 +555,8 @@ function aliases(ninja) {
             '$distdir/spf-trace.js',
             '$distdir/boot.js',
             '$distdir/boot-debug.js',
-            '$distdir/boot-trace.js'
+            '$distdir/boot-trace.js',
+            '$distdir/dev-spf-bundle.js'
           ]);
 
   // The "all" shortcut does not include the distribution files.
