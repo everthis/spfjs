@@ -430,6 +430,10 @@ function targets(ninja) {
       .using('jsdist')
       .from('$builddir/boot-trace.js');
 
+  ninja.edge('$distdir/dev-spf-bundle.js')
+      .using('jsdist')
+      .from('$builddir/dev-spf-bundle.js');
+      
   // Demo.
   var outs = {demo: []};
 
