@@ -1,12 +1,12 @@
 {
-  "name": "spf",
-  "version": "2.4.1",
+  "name": "spf-dev",
+  "version": "2.4.6",
   "description": "A lightweight JS framework for fast navigation and page updates from YouTube",
   "license": "MIT",
   "homepage": "https://github.com/youtube/spfjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youtube/spfjs.git"
+    "url": "https://github.com/everthis/spfjs.git"
   },
   "bugs": {
     "url": "https://github.com/youtube/spfjs/issues"
