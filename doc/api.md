@@ -5,7 +5,7 @@ layout: api
 ---
 
 
-The following API reference is for **SPF 24 (v2.4.1)**.
+The following API reference is for **SPF 24 (v2.4.8)**.
 
 
 * * *
